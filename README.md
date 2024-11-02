@@ -1,6 +1,6 @@
 # Serv00 - 控制面板自动登录脚本
 
-seektao.cc
+博客：blog.seektao.cc
 
 ## 使用方法
 
